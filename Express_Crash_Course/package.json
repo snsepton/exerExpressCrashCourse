@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/snsepton/exerExpressCrashCourse/issues"
   },
-  "homepage": "https://github.com/snsepton/exerExpressCrashCourse#readme",
+  "homepage": "https://github.com/snsepton/exerExpressCrashCourse/Express_Crash_Course",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^6.0.1",
